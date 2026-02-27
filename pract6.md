@@ -50,5 +50,9 @@ Yandex, 25.12.0.2263 corp (64-bit)
 <img width="977" height="750" alt="image" src="https://github.com/user-attachments/assets/e0ffcd73-7ca2-4e5a-9f66-e2faf3db5a25" />
 
 ### 14. CSS шрифт
+<img width="1060" height="628" alt="image" src="https://github.com/user-attachments/assets/f142200a-130a-42ca-b702-d8beb28a6baa" />
+Есть несовпадение по размеру
 
-### 15. Статус ответа
+### 15. Валидация поля
+<img width="1056" height="802" alt="image" src="https://github.com/user-attachments/assets/3c6cd23d-64b0-43d2-9317-d20cfeabe18d" />
+
