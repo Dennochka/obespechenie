@@ -8,9 +8,12 @@ Yandex, 25.12.0.2263 corp (64-bit)
 Метод запроса отличается (необходим POST, а идет PUT)
 
 ### 2. Статус ответа
+<img width="1062" height="759" alt="image" src="https://github.com/user-attachments/assets/040d9aae-0b77-401d-b764-3d21b70e7f51" />
+Статус ответа совпадает с ожидаемым результатом
+### 3. JSON в запросе
+<img width="614" height="897" alt="image" src="https://github.com/user-attachments/assets/c01b305d-1c37-446b-8de2-c00110ba4ce3" />
+### 4. JSON в ответе
 
-### 3. Статус ответа
-### 4. Статус ответа
 ### 5. Статус ответа
 ### 6. Статус ответа
 ### 7. Статус ответа
