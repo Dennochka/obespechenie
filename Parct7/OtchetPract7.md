@@ -13,5 +13,15 @@
 Вывод страницы
 <img width="591" height="241" alt="image" src="https://github.com/user-attachments/assets/25c306dc-e58c-4167-b50e-f488f9732e4e" />
 
-### Настройка переменных и окружения
+### Создание переменной для базового адреса выбранного API
+<img width="582" height="188" alt="image" src="https://github.com/user-attachments/assets/0d3e28fc-5e23-4ceb-b6a2-9e3bf12abd6f" />
+
+Обращение к переменной
+<img width="602" height="216" alt="image" src="https://github.com/user-attachments/assets/edc5833a-5dec-4f56-a050-c300d0064249" />
+
+### Написание простых тестов
+Код ответа равен ожидаемому
+В теле ответа суествует основное поле с данныим
+Массив данных не пустой
+
 
