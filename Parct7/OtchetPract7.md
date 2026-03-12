@@ -35,9 +35,20 @@
 ## Задание 2
 
 ### Импорт готовой коллекции
+<img width="185" height="129" alt="image" src="https://github.com/user-attachments/assets/a2ee7fa0-594e-49bd-8937-07d7628b04b3" />
+
 ### Настрока переменных
+<img width="827" height="216" alt="image" src="https://github.com/user-attachments/assets/d16b1719-07a6-4a6e-bc9e-deb50b59fd28" />
+
 ### Структура коллекции ServerREST
+<img width="263" height="613" alt="image" src="https://github.com/user-attachments/assets/078c2e8c-8394-450a-add5-fcebd7eb8a59" />
+
 ### Запуск базовых сценариев
+<img width="832" height="723" alt="image" src="https://github.com/user-attachments/assets/488ee5c8-6424-43c1-ae7d-64908222cbd6" />
+
 ### Изучение автоматизированных тестов
+<img width="825" height="856" alt="image" src="https://github.com/user-attachments/assets/599ae54a-9e44-4c74-86d9-52ca1a8e54bc" />
+
 ### Ошибочные сценарии
+<img width="828" height="302" alt="image" src="https://github.com/user-attachments/assets/6d1f64b4-873f-4f67-8d73-a77e5bf73c6e" />
 
