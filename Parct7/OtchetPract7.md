@@ -21,7 +21,16 @@
 
 ### Написание простых тестов
 Код ответа равен ожидаемому
-В теле ответа суествует основное поле с данныим
-Массив данных не пустой
+<img width="386" height="77" alt="image" src="https://github.com/user-attachments/assets/083c7c31-dcfe-4996-8d34-a3e97fd97cf0" />
+
+В теле ответа существует основное поле с данныим
+<img width="320" height="95" alt="image" src="https://github.com/user-attachments/assets/6d83de8e-0ceb-4a05-aef1-dcc9e28d78e7" />
+
+Время отклика меньше 500 мс
+<img width="445" height="77" alt="image" src="https://github.com/user-attachments/assets/e3b9b541-62e7-424e-9f38-80566812875a" />
+
+### Использование Collection Runner
+<img width="833" height="726" alt="image" src="https://github.com/user-attachments/assets/1d981797-24ed-4523-be4f-d48715d88d76" />
+
 
 
