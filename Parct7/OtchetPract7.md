@@ -50,5 +50,14 @@
 <img width="825" height="856" alt="image" src="https://github.com/user-attachments/assets/599ae54a-9e44-4c74-86d9-52ca1a8e54bc" />
 
 ### Ошибочные сценарии
+
+Запросы на создание пользователя с повторяющейся почтой и дальнейшее удаление. В втором тесте показано что статус кода = 400, ошибка создания пользователя.
 <img width="828" height="302" alt="image" src="https://github.com/user-attachments/assets/6d1f64b4-873f-4f67-8d73-a77e5bf73c6e" />
 
+Обновление почты, на ту, которая уже существует. Нельзя обновить почту на уже зарегестрированую. Ошибка в тесте Update User by ID 
+<img width="780" height="605" alt="image" src="https://github.com/user-attachments/assets/8c02d161-461c-4999-831f-d1a1f37da931" />
+<img width="777" height="503" alt="image" src="https://github.com/user-attachments/assets/0b8c4966-b248-47a4-8381-82eacc1c2d4d" />
+<img width="777" height="665" alt="image" src="https://github.com/user-attachments/assets/f331cc0e-c6a2-419a-8b6a-723246403c57" />
+<img width="771" height="647" alt="image" src="https://github.com/user-attachments/assets/d4fce816-a5d5-453d-b5d6-b1033384da42" />
+<img width="774" height="720" alt="image" src="https://github.com/user-attachments/assets/ae436e1f-b9c2-4f5e-8ddd-de93182ed7b5" />
+<img width="766" height="506" alt="image" src="https://github.com/user-attachments/assets/a5c003ff-37a6-425c-9d9e-a9ffd57f8e8c" />
