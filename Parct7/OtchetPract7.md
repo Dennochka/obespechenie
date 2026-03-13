@@ -56,8 +56,25 @@
 
 Обновление почты, на ту, которая уже существует. Нельзя обновить почту на уже зарегестрированую. Ошибка в тесте Update User by ID 
 <img width="780" height="605" alt="image" src="https://github.com/user-attachments/assets/8c02d161-461c-4999-831f-d1a1f37da931" />
+
+Запрещено удалять пользователя с существующей корзиной. Ошибка в тесте Delete user by ID
 <img width="777" height="503" alt="image" src="https://github.com/user-attachments/assets/0b8c4966-b248-47a4-8381-82eacc1c2d4d" />
-<img width="777" height="665" alt="image" src="https://github.com/user-attachments/assets/f331cc0e-c6a2-419a-8b6a-723246403c57" />
-<img width="771" height="647" alt="image" src="https://github.com/user-attachments/assets/d4fce816-a5d5-453d-b5d6-b1033384da42" />
-<img width="774" height="720" alt="image" src="https://github.com/user-attachments/assets/ae436e1f-b9c2-4f5e-8ddd-de93182ed7b5" />
-<img width="766" height="506" alt="image" src="https://github.com/user-attachments/assets/a5c003ff-37a6-425c-9d9e-a9ffd57f8e8c" />
+
+Нельзя создать продукты с одинаковыми названиями. Ошибка в тесте Cadastrar produto com nome repetido
+<img width="782" height="713" alt="image" src="https://github.com/user-attachments/assets/84339862-42a2-408a-8428-f154ea58394e" />
+
+Нельзя удалить продукт, который был добавлен в корзину. Ошибка в тесте Delete product
+<img width="785" height="764" alt="image" src="https://github.com/user-attachments/assets/35e27d4d-7434-4f9d-ad99-75899e4d9b1e" />
+
+Неккоректный ввод ID. ID должен состоять из 16 символов(и буквы и цифры). Ошибка в тесте Update product
+<img width="780" height="718" alt="image" src="https://github.com/user-attachments/assets/7cfa01b5-ef38-4892-9199-bc87cb8324b3" />
+
+Ошибка создания больше 1 корзины. Ошибка в тесте Create cart 2 
+<img width="781" height="519" alt="image" src="https://github.com/user-attachments/assets/da1d6077-d2b3-4e74-9022-058dd55ad2f1" />
+
+## Задание 3
+
+в запросах уже используется переменая baseUrl и дополнительные переменные (page, id, limit и т.п.). Созданы несколько наборов параметров, котореы были запущены через Collection Runner.
+
+
+
